@@ -13,6 +13,8 @@
 		E0319CCF19FFBA8F0066C6FF /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E0319CCE19FFBA8F0066C6FF /* Images.xcassets */; };
 		E0319CD219FFBA8F0066C6FF /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E0319CD019FFBA8F0066C6FF /* LaunchScreen.xib */; };
 		E0319CDE19FFBA8F0066C6FF /* PostcardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0319CDD19FFBA8F0066C6FF /* PostcardTests.swift */; };
+		E0319CE819FFC9070066C6FF /* Cheif Mukuni.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0319CE719FFC9070066C6FF /* Cheif Mukuni.jpg */; };
+		E0319CEA19FFC9230066C6FF /* Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg in Resources */ = {isa = PBXBuildFile; fileRef = E0319CE919FFC9230066C6FF /* Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +38,8 @@
 		E0319CD719FFBA8F0066C6FF /* PostcardTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PostcardTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E0319CDC19FFBA8F0066C6FF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E0319CDD19FFBA8F0066C6FF /* PostcardTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostcardTests.swift; sourceTree = "<group>"; };
+		E0319CE719FFC9070066C6FF /* Cheif Mukuni.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Cheif Mukuni.jpg"; sourceTree = "<group>"; };
+		E0319CE919FFC9230066C6FF /* Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +94,8 @@
 		E0319CC519FFBA8F0066C6FF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				E0319CE919FFC9230066C6FF /* Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg */,
+				E0319CE719FFC9070066C6FF /* Cheif Mukuni.jpg */,
 				E0319CC619FFBA8F0066C6FF /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -195,6 +201,8 @@
 				E0319CCD19FFBA8F0066C6FF /* Main.storyboard in Resources */,
 				E0319CD219FFBA8F0066C6FF /* LaunchScreen.xib in Resources */,
 				E0319CCF19FFBA8F0066C6FF /* Images.xcassets in Resources */,
+				E0319CE819FFC9070066C6FF /* Cheif Mukuni.jpg in Resources */,
+				E0319CEA19FFC9230066C6FF /* Elephant Riding at Mukuni Big Five, Livingstone. Zambia.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
